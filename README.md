@@ -1,6 +1,6 @@
 ## Zero Knowledge Range Proof
 
-ING's zero knowledge range-proof precompiled contract for the go-ethereum client.
+ING's zero-knowledge range proof precompiled contract for the go-ethereum client.
 
 ## Important note:
 

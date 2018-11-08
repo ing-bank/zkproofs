@@ -102,7 +102,7 @@ Other inputs are a lower bound and an upper bound for the range proof. The bound
 The range must be supplied as a `ClosedRange`:
 ```java
 // import com.ing.blockchain.zk.dto.*
-ClosedRange range = new ClosedRange.of(lower, upper);
+ClosedRange range = ClosedRange.of(lower, upper);
 ```
 where `lower` and `upper` are BigIntegers.
 

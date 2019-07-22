@@ -1,4 +1,8 @@
-[![CircleCI](https://circleci.com/gh/ing-bank/zkproofs/tree/master.svg?style=shield)](https://circleci.com/gh/ing-bank/zkproofs/tree/master)
+# THIS PROJECT IS OUTDATED AND HAS BEEN ARCHIVED! Please see [ing-bank/bulletproofs](https://github.com/ing-bank/bulletproofs) for an updated version.
+
+Please note that no maintenance is done on this code base. This means that it might contain serious security issues. Please dont't use this code. For an updated and secure version, please use [ing-bank/bulletproofs](https://github.com/ing-bank/bulletproofs).
+
+Old README:
 
 # Zero Knowledge Proofs
 
